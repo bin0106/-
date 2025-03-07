@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
@@ -56,4 +56,4 @@
 </body>
 </html>
 Đã gửi
-Viết cho
+Viết cho bé như cute no.1
